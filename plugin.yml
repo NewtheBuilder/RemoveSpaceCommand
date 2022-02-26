@@ -1,0 +1,5 @@
+name: RemoveSpaceCommand
+version: 1.0.0
+main: NewTheBuilder\RemoveSpaceCommand\Main
+api: 4.0.0
+author: NewTheBuilder
